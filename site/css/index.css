@@ -1,0 +1,7 @@
+.container-principal{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100%;
+background-color: rgb(99, 28, 28);
+}
